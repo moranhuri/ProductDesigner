@@ -494,7 +494,9 @@ footer p {
         margin-bottom: 30px;
     }
 
-
+ #Projects a{
+     margin:25px;
+    }
     .aboutMe {
         top: 185px;
         right: 170px;
